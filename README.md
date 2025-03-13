@@ -1,3 +1,7 @@
+## For me, so I wont go search on how to create server.js for my mongodb
+
+
+
 ## 🚀 **Setup Guide**
 
 ### 1️⃣ **Initialize a Node.js Project**
